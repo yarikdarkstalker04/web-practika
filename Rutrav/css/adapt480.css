@@ -1,0 +1,14 @@
+@media (max-width: 480px) {
+	
+	
+	
+	.main-113{
+		display:flex;
+		flex-direction:column;
+		gap:1em;
+	}
+	.main-12
+	{
+		visibility:hidden;
+	}
+}
